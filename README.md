@@ -1,0 +1,1 @@
+Hi, I’m Martins Michael, a passionate front-end developer who crafted this pixel-perfect Fylo landing page using Tailwind CSS! I love building responsive, user-friendly web interfaces and brought this project to life with clean code, modern design, and a keen eye for detail. Check out my GitHub for more projects where I blend creativity and tech to solve real-world challenges!
